@@ -1,2 +1,3 @@
 Drum-Website
-A static website that. mimics drum
+
+A static website that mimics drum
